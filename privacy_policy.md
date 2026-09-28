@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the **RcloneGsync** app (herein referred to as the "Application") created by **David Purdie** as a **Fre** service. 
+This privacy policy applies to the **RcloneGsync** app (herein referred to as the "Application") created by **David Purdie** as a **Free** service. 
 
 ### 1. Information Collection and Use
 The Application does not collect or transmit any personally identifiable information from its users. No personal data (such as names, email addresses, phone numbers, or precise locations) is harvested, stored, or shared.
@@ -10,10 +10,6 @@ To help optimize performance and provide additional features, the Application ma
 
 Below are the links to the privacy policies of the third-party service providers used by the Application (if applicable):
 * [Google Play Services](https://policies.google.com/privacy)
-* [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-* [AdMob](https://support.google.com/admob/answer/6128543)
-
-*(Note: Remove any third-party links from the list above that your app does not actually use.)*
 
 ### 3. Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. The Application does not use these "cookies" explicitly. However, third-party code and libraries used by the Application may use "cookies" to collect information and improve their services.
@@ -28,4 +24,4 @@ The Application does not knowingly collect personally identifiable information f
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ### 7. Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at **[Insert Your Email Address]**.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at **david.d.purdie@gmail.com**.
